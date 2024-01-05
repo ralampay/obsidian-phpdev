@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee73245e7333dd2e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5f3753db339264bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting up Composer in Ubuntu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d81229f48842fcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Up Laravel Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37ff258347f8ef45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Laravel Workflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6163866a034e9b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generating Laravel Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66be26d3e21c6381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel PostgreSQL Database Setup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel PostgreSQL Database Setup.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel PostgreSQL Database Setup.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel PostgreSQL Database Setup.md"
+                "file": "README.md"
               }
             }
           }
@@ -203,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66be26d3e21c6381",
+  "active": "5f3753db339264bf",
   "lastOpenFiles": [
+    "Setting Up Laravel Project.md",
+    "README.md",
+    "Setting Up Composer in Ubuntu.md",
     "Basic Laravel Workflow.md",
     "Generating Laravel Model.md",
-    "Setting Up Laravel Project.md",
-    "Setting up Composer in Ubuntu.md",
     "Laravel PostgreSQL Database Setup.md"
   ]
 }
