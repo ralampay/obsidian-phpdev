@@ -55,3 +55,25 @@ DB_DATABASE=example_development
 DB_USERNAME=developer
 DB_PASSWORD=password
 ```
+
+## Database Migrations
+
+To create a new migration:
+
+```bash
+php artisan make:migration name_of_migration_file --table=table_name
+```
+
+Update the necessary `up()` and `down()` methods.
+
+Migrate changes to the database:
+
+```bash
+php artisan migrate
+```
+
+To rollback changes:
+
+```bash
+php artisan migrate:rollback
+```

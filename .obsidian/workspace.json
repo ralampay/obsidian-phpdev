@@ -205,10 +205,10 @@
   },
   "active": "66be26d3e21c6381",
   "lastOpenFiles": [
-    "Setting up Composer in Ubuntu.md",
-    "Laravel PostgreSQL Database Setup.md",
-    "Setting Up Laravel Project.md",
+    "Basic Laravel Workflow.md",
     "Generating Laravel Model.md",
-    "Basic Laravel Workflow.md"
+    "Setting Up Laravel Project.md",
+    "Setting up Composer in Ubuntu.md",
+    "Laravel PostgreSQL Database Setup.md"
   ]
 }
